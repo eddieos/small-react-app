@@ -4,6 +4,7 @@ import './App.scss';
 function App() {
   return (
       <section className="App">
+
         <div className="dialogue dialogue--warning">
           <div className="dialogue__header">Warning 😬</div>
           <div className="dialogue__text">
@@ -13,6 +14,7 @@ function App() {
             proceed
           </button>
         </div>
+
         <div className="dialogue dialogue--error">
           <div className="dialogue__header">Update error 😱</div>
           <div className="dialogue__text">
@@ -22,6 +24,7 @@ function App() {
             try again
           </button>
         </div>
+
         <div className="dialogue dialogue--success">
           <div className="dialogue__header">Update successful! ☺️</div>
           <div className="dialogue__text">
