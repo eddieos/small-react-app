@@ -1,5 +1,9 @@
+// custom scss
+@import "assets/scss/custom";
+
+
 .App {
-  text-align: center;
+  font-family: $sans-serif-family;
 }
 
 
@@ -21,3 +25,4 @@
 .App-link {
   color: #09d3ac;
 }
+
