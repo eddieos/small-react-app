@@ -26,7 +26,7 @@ function App() {
         </div>
 
         <div className="dialogue dialogue--success">
-          <div className="dialogue__header">Update successful! ☺️</div>
+          <div className="dialogue__header">Update successful! 😊</div>
           <div className="dialogue__text">
             Your shipment records have been uploaded and the receiver has been sent a notification. Nice!
           </div>
